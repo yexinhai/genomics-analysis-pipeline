@@ -1,5 +1,12 @@
 ## calling SNP 
-Ye xinhai,2019.12.24
+By Xinhai Ye,2019.12.24
+
+- Name: Call SNP by freebayes
+- Institution: Zhejiang University
+- @author Xinhai Ye 
+- @date 2019.12.24
+- @mail yexinhai@zju.edu.cn
+
 
 ### 1.Create index for reference genome：
 ```
