@@ -1,5 +1,5 @@
 ## calling SNP 
-By Xinhai Ye,2019.12.24
+By Xinhai Ye, 2019.12.24
 
 - Name: Call SNP by freebayes
 - Institution: Zhejiang University
