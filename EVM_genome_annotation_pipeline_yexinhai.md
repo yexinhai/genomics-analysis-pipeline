@@ -170,7 +170,7 @@ perl /gpfs/bioinformatics/software/EVidenceModeler-1.1.1/EvmUtils/convert_EVM_ou
 
 ### Combine gff3 files
 ```
- find ./ -mindepth 2 -maxdepth 2 -type f -name "evm.out.gff3" -exec cat {} \; >evm.gff3
+find ./ -mindepth 2 -maxdepth 2 -type f -name "evm.out.gff3" -exec cat {} \; >evm.gff3
 ```
 
 ## Get your genome annotation
