@@ -2,14 +2,6 @@
 
 by Xinhai Ye, yexinhai@zju.edu.cn, 2019.08.01
 
-
-- Name: Genome annotation using EVM pipeline
-- Institution: Zhejiang University
-- @author Xinhai Ye 
-- @date 2019.08.01
-- @mail yexinhai@zju.edu.cn
-- @version 1.0 
-
 ## Repeat annotation
 ### RepeatModeler
 ```
