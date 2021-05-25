@@ -2,6 +2,8 @@
 
 by Xinhai Ye, yexinhai@zju.edu.cn, 2019.08.01
 
+NOTE: For our new developed genome annotation pipeline, please see https://github.com/meiyang12/Genome-annotation-pipeline
+
 ## Repeat annotation
 ### RepeatModeler
 ```
